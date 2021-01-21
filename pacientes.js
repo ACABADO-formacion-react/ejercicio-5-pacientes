@@ -65,7 +65,7 @@ const pacientes = [
             edad: 14,
             sexo: "M"
         },
-        diasIngresados: 4,
+        diasIngresado: 4,
         dieta: "Diabetes",
         estado: "espera"
     },
@@ -75,7 +75,7 @@ const pacientes = [
             edad: 55,
             sexo: "H"
         },
-        diasIngresados: 8,
+        diasIngresado: 8,
         dieta: "Baja en fibra",
         estado: "espera"
     },
@@ -85,7 +85,7 @@ const pacientes = [
             edad: 36,
             sexo: "H"
         },
-        diasIngresados: 4,
+        diasIngresado: 4,
         dieta: "Sin sal",
         estado: "cama"
     }
